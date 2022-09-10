@@ -1,0 +1,95 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  color: white;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+  color: white;
+  margin: 10px;
+}
+.containerHeader {
+  display: flex;
+  background-color: #333333;
+}
+.profilePicture {
+  width: 30px;
+  height: 30px;
+}
+.link {
+  flex-grow: 8;
+}
+h1 {
+  margin-top: 0px;
+  padding-top: 260px;
+  text-align: center;
+}
+.comment {
+  text-align: center;
+}
+.containerFirst {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.jumbotrone {
+  margin: 0px;
+  background-image: url("stars.jpg");
+  color: white;
+}
+.learnMore {
+  width: 100px;
+  height: 30px;
+  border: 1px solid white;
+  margin-bottom: 200px;
+  margin-right: 20px;
+}
+.signUp {
+  width: 100px;
+  border: 1px solid white;
+  margin-bottom: 200px;
+}
+.easy {
+  width: 40px;
+  height: 40px;
+}
+.fun {
+  width: 40px;
+  height: 40px;
+}
+.love {
+  width: 40px;
+  height: 40px;
+}
+.subtroneTop {
+  display: flex;
+}
+.subtroneBottom {
+  display: flex;
+  background-color: #a8a3a3;
+}
+.leftSubtrone {
+  margin-top: 30px;
+  margin-left: 130px;
+}
+.rightSubtrone {
+  margin-right: 130px;
+}
+footer {
+  text-align: center;
+  background-color: #333333;
+}
+.footerPic {
+  width: 40px;
+  height: 40px;
+}
+.iron {
+  width: 30px;
+  height: 30px;
+}
